@@ -1,0 +1,8 @@
+{
+  "name": "apexplanet/skillbridge-capstone",
+  "description": "SkillBridge job and internship portal capstone",
+  "require": {
+    "php": ">=8.0",
+    "phpmailer/phpmailer": "^6.9"
+  }
+}
