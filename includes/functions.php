@@ -109,7 +109,7 @@ function flash($key, $message = null) {
 
 // =====================================
 // SEND OTP EMAIL
-// Kept for future real email verification
+// Real email OTP verification using PHPMailer
 // =====================================
 
 function send_otp_email($email, $name, $otp) {

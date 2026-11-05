@@ -140,9 +140,7 @@ include __DIR__ . '/includes/header.php';
 
         </div>
 
-        <a class="text-link" href="jobs.php">
-            View all jobs →
-        </a>
+        
 
     </div>
 
@@ -209,7 +207,9 @@ include __DIR__ . '/includes/header.php';
             <h2>Featured opportunities</h2>
 
         </div>
-
+ <a class="text-link" href="jobs.php">
+            View all jobs →
+        </a>
     </div>
 
 
