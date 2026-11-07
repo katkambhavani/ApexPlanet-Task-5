@@ -3,4 +3,5 @@
 /config/secrets.php
 *.log
 .DS_Store
+config/config.php
 /config/mail-local.php
